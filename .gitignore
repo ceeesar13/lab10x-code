@@ -1,0 +1,27 @@
+# ============================================
+# Lab 10 - Path Code | .gitignore
+# ============================================
+
+# Documentacion del curso (permanece local)
+documentacion/
+
+# Archivos de Claude Code (permanecen locales)
+CLAUDE.md
+AGENTS.md
+.claude/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Logs y temporales
+*.log
+*.tmp
+*.cache
